@@ -1,4 +1,4 @@
-[//]:[![MasterHead](https://i.pinimg.com/originals/ac/5b/16/ac5b1609d86356d86f028b307f839fb7.gif)](https://www.linkedin.com/in/hageo-balam-mendez-053777220) 
+[//]: [![MasterHead](https://i.pinimg.com/originals/ac/5b/16/ac5b1609d86356d86f028b307f839fb7.gif)](https://www.linkedin.com/in/hageo-balam-mendez-053777220) 
 
 <h1 align="center">Hi 👋, I'm Hageo Balam</h1>
 <h3 align="center">I’m a Data Engineer and Data Analyst who loves diving into data to uncover stories that need to be told and valuable insights that can drive smarter decisions.</h3>
